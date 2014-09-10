@@ -1,0 +1,12 @@
+body {
+	background-color: pink;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+.table-setup td{
+	border: 1px solid black;
+	padding: 5px;
+}
