@@ -1,0 +1,51 @@
+var FEWD = {"students":[
+	{"firstname": "Alan", "lastname": "Hurite", "email": "ashurite@aol.com"},
+	{"firstname": "Alexis", "lastname": "Gabel", "email": "alexis.gabel@gmail.com"},
+	{"firstname": "Rachel", "lastname": "Amo", "email": "omniveritas2000@yahoo.com"},
+	{"firstname": "Hejia, Rennata", "lastname": "Chen", "email": "needs@email.com"},
+	{"firstname": "Baolong", "lastname": "Li", "email": "chineseta88@gmail.com"},
+	{"firstname": "Swathi", "lastname": "Ghanta", "email": "swathi.ghanta@gmail.com"},
+	{"firstname": "Veronica", "lastname": "Semeco", "email": "veronicasemeco@gmail.com"},
+	{"firstname": "Brian", "lastname": "Antar", "email": "bantar07@gmail.com"},
+	{"firstname": "Lexi", "lastname": "Cummins", "email": "cummins.a88@gmail.com"},
+	{"firstname": "Aristides", "lastname": "Inchaustegui", "email": "aristides.inchaustegui@gmail.com"},
+	{"firstname": "Erol", "lastname": "Yegin", "email": "erolyegin@gmail.com"},
+	{"firstname": "Ann", "lastname": "Suh", "email": "annsuh@gmail.com"},
+	{"firstname": "Garrett", "lastname": "Jeffrey", "email": "garrett.w.jeffrey@gmail.com"},
+	{"firstname": "Nancy", "lastname": "Ko", "email": "konancys@gmail.com"},
+	{"firstname": "Kwan", "lastname": "Cheng", "email": "kwanmancheng@gmail.com"},
+	{"firstname": "Vicky", "lastname": "Darbouze", "email": "vdarbouze@gmail.com"},
+	{"firstname": "Gulnar", "lastname": "Babayeva", "email": "gulnar.babayeva@gmail.com"},
+	{"firstname": "Janice", "lastname": "Niggeling", "email": "janice.niggeling@gmail.com"},
+	{"firstname": "Tyeisha", "lastname": "Rainford", "email": "trainford08@gmail.com"},
+	{"firstname": "Jason", "lastname": "Brockie", "email": "jasonbrockie007@yahoo.com"},
+	{"firstname": "Jessica", "lastname": "Ramirez", "email": "jessy.ramirez23@gmail.com"},
+	{"firstname": "Peter", "lastname": "Avila", "email": "pavila@gmail.com"},
+	{"firstname": "Darrick", "lastname": "Rousseau", "email": "darrick@ga.co"},
+	{"firstname": "Russell", "lastname": "Varriale", "email": "ugolino91@gmail.com"}
+]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
